@@ -1,4 +1,4 @@
-; A timestamp such as "2h" would return 7200 seconds. Meaning 2h will be in 7200 from now on.
+; A timestamp such as "2h" would return 7200 seconds. Meaning 2h will be in 7200 seconds from now on.
 ; Absurd timestamps such as "2d3d90h20s20m10d" are also possible
 
 GetRelativeTimeToSec(sTime) {

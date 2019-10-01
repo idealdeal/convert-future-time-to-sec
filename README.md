@@ -5,4 +5,4 @@ AHK function to convert a (future) timestamp such as "2h" to the amount of secon
 # Usage
 This function can be useful when coding timers that the user can define himself.
 
-**CLI command example**: /remind Pizza is ready in 10m
+**CLI example**: /remind Pizza is ready in 10m
